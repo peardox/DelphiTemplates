@@ -1,2 +1,2 @@
 # CGEFMXBase
-Base Windowed CGEW Project
+Base Windowed CGE Project
