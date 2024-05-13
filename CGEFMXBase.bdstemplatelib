@@ -1,0 +1,16 @@
+﻿  <TemplateLibrary Version="1.0" id="com.peardox.fmx.cgebase">
+    <Name>Base CGE FMX Project</Name>
+    <Description>A CGE Based FMX Project</Description>
+    <Items>
+      <Item id="com.peardox.fmx.cgebase" Creator="DelphiProjectRepositoryCreator">
+        <Name>Base CGE FMX Project</Name>
+        <Description>A CGE Based FMX Project</Description>
+        <Author>peardox</Author>
+        <Icon>MyTemplate\MyTemplateIcon.ico</Icon>
+        <ProjectFile>CGEFMXBase.dproj</ProjectFile>
+        <DefaultProjectName>CGE FMX Base</DefaultProjectName>
+        <FilePath>CGEFMXBase</FilePath>
+        <Identities>RadStudio</Identities>
+      </Item>
+    </Items>
+  </TemplateLibrary>
